@@ -1,0 +1,1 @@
+export const channelStore = new Map();

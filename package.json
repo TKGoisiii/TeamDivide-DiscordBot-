@@ -1,6 +1,13 @@
 {
+  "type": "module",
   "dependencies": {
     "discord.js": "^14.15.3",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.7"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "volta": {
+    "node": "23.10.0"
   }
 }
